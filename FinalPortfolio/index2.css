@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anton&family=Dancing+Script:wght@700&family=Michroma&family=Oswald:wght@300;400;700&family=PT+Serif&family=Padyakke+Expanded+One&family=Raleway:wght@700&family=Roboto:wght@400;700&family=Sonsie+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anton&family=Dancing+Script:wght@700&family=Michroma&family=Oswald:wght@300;400;700&family=PT+Serif&family=Padyakke+Expanded+One&family=Raleway:wght@700&family=Roboto:wght@400;700&family=Romanesco&family=Sonsie+One&display=swap');
+
 *{
     margin: 0px;
     padding: 0px;
@@ -202,9 +203,9 @@
     color: black;
     font-style: italic;
 }
-.aboutuscontent p
+.introabout p
 {
-    font-family: 'Exo';
+    font-family: 'Romanesco';
 }
 
 /*	About Us Page End	*/
